@@ -19,7 +19,7 @@ It is built using Python and utilizes various libraries and frameworks such as t
 4. Start the application: `python -m musicboardextract_gui`
 
 ## Standalone app
-- Download link: 
+- Download link: [DOWNLOAD](https://github.com/EdEquinox/MusicboardExtract_GUI/releases)
 
 ## Usage
 1. Launch the application.
